@@ -208,9 +208,9 @@ Texture. 
 ![](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Guides/VKgkU8_1_7_0/img/segmentation_examples.png)
 
 When using segmentation, we recommend checking out the [Segmentation
-Template](%7Bentry:5762:url%7D). The template has a controller that
-allows you to easily add a background color, image, tiled image, post
-effect and more segmented by your selected Segmentation Texture. 
+Template](/templates/face/segmentation). The template has a controller
+that allows you to easily add a background color, image, tiled image,
+post effect and more segmented by your selected Segmentation Texture. 
 
 Still Looking for help?
 
@@ -247,8 +247,13 @@ Terms](https://www.snap.com/en-US/terms/custom-creative-tools/)
 [Privacy Policy](https://www.snap.com/privacy/privacy-policy/) [Terms of
 Service](https://www.snap.com/terms/)
 
-Hi\! We use cookies on this website to help operate our site and for
-analytics and advertising purposes. For more on how we use cookies and
-your cookie choices, go [here](https://www.snap.com/cookie-policy/)\! By
-continuing to use our services, you are giving us your consent to use
-cookies.
+Hi\! We use cookies, including third-party cookies, on this website to
+help operate our site and for analytics and advertising purposes. For
+more on how we use cookies and your cookie choices, go
+[here](https://snap.com/cookie-policy/) for our cookie policy\! By
+clicking below, you are giving us consent to use cookies. You can change
+your cookie settings by clicking on "More information" below.
+
+I Accept
+
+[More Information](https://www.snapchat.com/cookie-settings)

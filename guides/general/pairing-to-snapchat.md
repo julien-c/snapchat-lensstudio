@@ -143,13 +143,6 @@ When paired, any changes you make in Lens Studio are reflected in a
 preview Lens on your mobile device. Previewing your Lens inside Snapchat
 will help you test and iterate on the Lens' user experience.
 
-## Setup
-
-For pairing to work, you'll first need to make sure that:
-
-  - Your computer and your device are on the same Wi-Fi network
-  - You have the latest version of Snapchat installed on your device
-
 **Warning   
 **To pair Snapchat with Lens Studio, you'll need the latest version of
 Snapchat as well as the latest version of Lens Studio.
@@ -305,8 +298,13 @@ Terms](https://www.snap.com/en-US/terms/custom-creative-tools/)
 [Privacy Policy](https://www.snap.com/privacy/privacy-policy/) [Terms of
 Service](https://www.snap.com/terms/)
 
-Hi\! We use cookies on this website to help operate our site and for
-analytics and advertising purposes. For more on how we use cookies and
-your cookie choices, go [here](https://www.snap.com/cookie-policy/)\! By
-continuing to use our services, you are giving us your consent to use
-cookies.
+Hi\! We use cookies, including third-party cookies, on this website to
+help operate our site and for analytics and advertising purposes. For
+more on how we use cookies and your cookie choices, go
+[here](https://snap.com/cookie-policy/) for our cookie policy\! By
+clicking below, you are giving us consent to use cookies. You can change
+your cookie settings by clicking on "More information" below.
+
+I Accept
+
+[More Information](https://www.snapchat.com/cookie-settings)

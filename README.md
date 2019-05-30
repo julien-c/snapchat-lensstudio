@@ -108,9 +108,9 @@ by B3D Interactive
 
 by Brielle Garcia
 
-![poster](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Flower-Picker-Dadeko-Image-copy.jpg)
+![poster](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_new_screenshot_flower-picker-compressed.png)
 
-![](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_Flower-Picker_Icon.png)
+![](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_Flower-Picker_Icon-compressed.png)
 
 Flower Picker
 
@@ -292,9 +292,9 @@ by B3D Interactive
 
 by Brielle Garcia
 
-![poster](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Flower-Picker-Dadeko-Image-copy.jpg)
+![poster](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_new_screenshot_flower-picker-compressed.png)
 
-![](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_Flower-Picker_Icon.png)
+![](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_Flower-Picker_Icon-compressed.png)
 
 Flower Picker
 
@@ -495,7 +495,7 @@ Snap to Unlock Lens
 by Brielle Garcia
 
 ![Flower
-Picker](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Dadeko_Flower-Picker_Snapcode.png)
+Picker](https://storage.googleapis.com/snapchat-lens-assets/f1a09194-f02d-43ed-92b8-62e843179ff0/lensStudio/Flower-Picker-Snapcode-compressed-new.png)
 
 Snap to Unlock Lens
 
@@ -879,8 +879,13 @@ Terms](https://www.snap.com/en-US/terms/custom-creative-tools/)
 [Privacy Policy](https://www.snap.com/privacy/privacy-policy/) [Terms of
 Service](https://www.snap.com/terms/)
 
-Hi\! We use cookies on this website to help operate our site and for
-analytics and advertising purposes. For more on how we use cookies and
-your cookie choices, go [here](https://www.snap.com/cookie-policy/)\! By
-continuing to use our services, you are giving us your consent to use
-cookies.
+Hi\! We use cookies, including third-party cookies, on this website to
+help operate our site and for analytics and advertising purposes. For
+more on how we use cookies and your cookie choices, go
+[here](https://snap.com/cookie-policy/) for our cookie policy\! By
+clicking below, you are giving us consent to use cookies. You can change
+your cookie settings by clicking on "More information" below.
+
+I Accept
+
+[More Information](https://www.snapchat.com/cookie-settings)

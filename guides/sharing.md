@@ -247,8 +247,13 @@ Terms](https://www.snap.com/en-US/terms/custom-creative-tools/)
 [Privacy Policy](https://www.snap.com/privacy/privacy-policy/) [Terms of
 Service](https://www.snap.com/terms/)
 
-Hi\! We use cookies on this website to help operate our site and for
-analytics and advertising purposes. For more on how we use cookies and
-your cookie choices, go [here](https://www.snap.com/cookie-policy/)\! By
-continuing to use our services, you are giving us your consent to use
-cookies.
+Hi\! We use cookies, including third-party cookies, on this website to
+help operate our site and for analytics and advertising purposes. For
+more on how we use cookies and your cookie choices, go
+[here](https://snap.com/cookie-policy/) for our cookie policy\! By
+clicking below, you are giving us consent to use cookies. You can change
+your cookie settings by clicking on "More information" below.
+
+I Accept
+
+[More Information](https://www.snapchat.com/cookie-settings)

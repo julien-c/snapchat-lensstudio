@@ -142,10 +142,12 @@ This site requires JavaScript to be enabled for proper functionality.
 
 By default, script variables retain their value only while the Lens is
 active. When a user closes and reopens a Lens, all script variables are
-reset. The [Persistent Storage system](/) enables you to create Lenses
-that can selectively read and write data between Lens sessions. This is
-perfect for [keeping track of a high score in a
-game](/templates/interactive/simple-high-score), for example. 
+reset. The [Persistent Storage
+system](https://lensstudio.snapchat.com/api/classes/PersistentStorageSystem/)
+enables you to create Lenses that can selectively read and write data
+between Lens sessions. This is perfect for [keeping track of a high
+score in a game](/templates/interactive/simple-high-score), for
+example. 
 
 In this guide, we'll write a simple script that increments a score every
 time the user opens their mouth, and then saves that count.
@@ -175,7 +177,8 @@ retrieve `totalScore` its value will be the default integer value of 0.
     print( "Loaded score: " + currentGameScore);
 
 For a full list of supported data types, please visit the
-[GeneralDataStore API Reference](/).
+[GeneralDataStore API
+Reference](https://lensstudio.snapchat.com/api/classes/GeneralDataStore/).
 
 Next, we'll write a function that increments the score and updates our
 variable in the Persistent Storage store.
@@ -302,8 +305,13 @@ Terms](https://www.snap.com/en-US/terms/custom-creative-tools/)
 [Privacy Policy](https://www.snap.com/privacy/privacy-policy/) [Terms of
 Service](https://www.snap.com/terms/)
 
-Hi\! We use cookies on this website to help operate our site and for
-analytics and advertising purposes. For more on how we use cookies and
-your cookie choices, go [here](https://www.snap.com/cookie-policy/)\! By
-continuing to use our services, you are giving us your consent to use
-cookies.
+Hi\! We use cookies, including third-party cookies, on this website to
+help operate our site and for analytics and advertising purposes. For
+more on how we use cookies and your cookie choices, go
+[here](https://snap.com/cookie-policy/) for our cookie policy\! By
+clicking below, you are giving us consent to use cookies. You can change
+your cookie settings by clicking on "More information" below.
+
+I Accept
+
+[More Information](https://www.snapchat.com/cookie-settings)
